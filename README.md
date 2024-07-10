@@ -32,11 +32,6 @@ all the aspects like finance, sales, marketing and supply chain.
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
 - And more 😅
-
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
   
 ## Business related Terminology
 
@@ -125,10 +120,6 @@ Fact table : It will have the data about the transactions
         - Has the details of pre invoice deductions percentage for each cutomer with year
     - Post_invoice_deductions
         - Post invoice deductions and other deductions details
-
-## Importing data into PowerBi
-
-- As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
 ## Data Model
 
