@@ -141,3 +141,21 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 - Products
 - Support
+
+  ![Home](https://github.com/yashwanth-DA/Business_Insights_360/assets/174483416/4fb2de3a-35ef-456f-ac0f-94fdf52998bb)
+  
+  ![finance view](https://github.com/yashwanth-DA/Business_Insights_360/assets/174483416/d762c4e8-9d47-49a3-8dfd-ea695fe9de6d)
+
+  ![sales view](https://github.com/yashwanth-DA/Business_Insights_360/assets/174483416/cbbd7f84-96af-41f0-ada4-e4c513155f7a)
+
+  ![Supply chain](https://github.com/yashwanth-DA/Business_Insights_360/assets/174483416/e2646012-a560-425b-8f48-18f5d2e16ed6)
+
+  ![Marketing view](https://github.com/yashwanth-DA/Business_Insights_360/assets/174483416/3cd4507a-7e9d-4bce-acbf-3dc177871e96)
+
+  ![Executive veiw](https://github.com/yashwanth-DA/Business_Insights_360/assets/174483416/e463dc07-8066-4bb4-ab3c-fe7f535282d6)
+
+
+
+
+
+
